@@ -1,3 +1,7 @@
+layout: page
+title: "Benjamin Krueger"
+permalink: /about/
+
 # About me
 
 Hello, my name is Benjamin Krueger. Allow me to introduce myself.
