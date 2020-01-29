@@ -1,3 +1,3 @@
-## Benjamin Krueger
-
-
+# Benjamin Krueger
+# [about](./about.md)
+# [projects](./projects.md)
