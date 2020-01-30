@@ -1,6 +1,3 @@
-layout: page
-title: "Personal Projects"
-permalink: /projects/
 # Personal Projects
 
 ## [btssa](https://github.com/benkrueger/btssa)
