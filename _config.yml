@@ -1,6 +1,4 @@
 #Jekyll Config
-name: Benjamin Oliver Krueger
-description: Benjamin Krueger's Personal Webpage
 url: "http://benkrueger.github.io"
 markdown: kramdown
 theme: jekyll-theme-slate
