@@ -1,4 +1,3 @@
 #Jekyll Config
-url: "http://benkrueger.github.io"
 markdown: kramdown
 theme: jekyll-theme-slate
