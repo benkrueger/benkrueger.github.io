@@ -1,25 +1,8 @@
-# Personal Projects
+# Projects
 
-## [btssa](https://github.com/benkrueger/btssa)
-- Command line utility for bittorrent file searching, sorting and archival
-- Written in go.
-- Supports grep like search abilities
+This page is a showcase of personal and educational projects that I have worket on over the years. Some of them are school assignments that I had a lot of fun with. Others are personal educational excercises or ideas I wanted to try to implement.
 
-## [chip8](https://github.com/benkrueger/chip8)
-- Chip8 emulator written in C#
-- Supports basic chip8 emulator ROMs.
+*To any recruiter or hiring manager reading this page please note that code in these repos is not held to any professional standards.* 
 
-## [a2cs](https://github.com/benkrueger/a2cs)
-- [libaria2](https://aria2.github.io/) c# wrapper.
-- Use aria2c in your C# applications!
-- compiles to command line 
-
-## [downwind](https://github.com/benkrueger/downwind)
-- Aria2c based download manager for windows.
-- Filezilla/WinSCP like GUI written in C#
-- uses a2cs library for actual downloading.
-
-## [knapsack](https://github.com/benkrueger/knapsack)
-- Bittorrent download/upload optimizer.
-- Optimize and configure an rtorrent setup.
-- Configure size/space limits 
+Thank You
+ 
