@@ -9,7 +9,7 @@
 *There will be no material from any of these classes directly copied to this website. Only my own interpretation of the class material as outlined in my notes will be on here.*
 ----
 ### Spring 2021:
-- [CS5782 - InfoSec](./cs5782/cs5782.md)
-- [CS4730 - Networks](./cs4730/cs4730.md)
-- [CS5342 - Data Mining](./cs5342/cs5342.md)
-- [PHIL2280 - Minds, Brains, Machines](./phil2280/phil22880.md)
+- [CS5782 - InfoSec](./cs5782/cs5782.html)
+- [CS4730 - Networks](./cs4730/cs4730.html)
+- [CS5342 - Data Mining](./cs5342/cs5342.html)
+- [PHIL2280 - Minds, Brains, Machines](./phil2280/phil22880.html)
