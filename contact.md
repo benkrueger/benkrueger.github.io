@@ -1,2 +1,2 @@
-# Contact info
-## Email bokkw4@umsystem.edu
+# __Contact info__
+##     Primary Email :bokkw4@umsystem.edu
