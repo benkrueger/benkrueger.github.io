@@ -17,7 +17,6 @@
         <li><a href="./contact.html">Contact</a></li>
         <li><a href="./about.html">About</a></li>
         <li><a href="./resume.pdf">Resume</a></li>
-        <li><a href="./projects.html">Projects</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
       </ul>
@@ -30,16 +29,11 @@
     <div class="col-sm-2 sidenav">
     </div>
     <div class="text-left"></div>
-        <h1><i>Welcome to my homepage.</i></h1>
+        <h1><i>{Title goes here}</i></h1>
     </div>
     <div class=" col-sm-8 text-left"> 
-    <h2>What this site is for:</h2>
-    <p>This website is meant as a multi-purpose hub for my resume, projects, coursework notes and contact info. It is also a playground where I will experiment
-        with frontend code. The possibilities are endless.
-    </p>
-    <h2>Who this site is meant for:</h2>
-    <p>Employers primarily. Graduation is on the horizon and my search for full time employment is about to ramp up. However, I may start using it as a blog and 
-        link to websites I find interesting. 
+    <h2>{Heading}</h2>
+    <p>
     </p>
     </div>
     <div class="col-sm-2 sidenav">
