@@ -1,3 +1,7 @@
 #!/bin/sh
-cd ..
-rsync -a benkrueger.github.io/* root@benjaminkrueger.xyz:/var/www/
+mkdir benjaminkrueger
+cp *.html benjaminkrueger
+cp *.pdf benjaminkrueger
+cp *.css benjaminkrueger
+rsync -a benjaminkrueger/* root@benjaminkrueger.xyz:/var/www/benjaminkrueger
+rm -rf benjaminkrueger
