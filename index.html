@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <title>Benjamin Krueger</title>
   <meta charset="utf-8">
@@ -8,7 +9,6 @@
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="collapse navbar-collapse" id="myNavbar">
@@ -32,10 +32,11 @@
     </div>
     <div class="text-left"></div>
         <h1><i>Welcome to my homepage.</i></h1>
+        <h5 id="qotd"></h5>
     </div>
     <div class=" col-sm-8 text-left"> 
     <h2>What this site is for:</h2>
-    <p>This is the personal webpage of Benjamin Krueger.
+    <p>This is the personal webpage of Benjamin Krueger. I put projects, resumes and whatever else I feel like here.
     </p>
     </div>
     <div class="col-sm-2 sidenav">
@@ -43,6 +44,21 @@
     </div>
   </div>
 </div>
+<script>
+  const quotes = ["I am very seldom interested in applications. I am more interested in the elegance of a problem. Is it a good problem, an interesting problem?",
+                   "The enemy knows the system.",
+                  "Use the word 'cybernetics', Norbert, because nobody knows what it means. This will always put you at an advantage in arguments.!",
+                  "Computers are like humans, they do everything except think.",
+                  "Simplicity is prerequisite for reliability.",
+                  "Computer science is no more about computers than astronomy is about telescopes.",
+                  "The question of whether computers can think is like the question of whether submarines can swim.",
+                  "Much of the excitement we get out of our work is that we don't really know what we are doing.",
+                  "Programming in <del>Basic</del> Javascript causes brain damage."
+                ]
+  var quote = "QOTD HERE!"
+  quote = quotes[Math.floor(Math.random() * quotes.length)];
+  document.getElementById("qotd").innerHTML = `<i>- ${quote}</i>`;
+</script>
 <footer class="footer"></footer>
 </body>
 </html>
